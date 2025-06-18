@@ -1,5 +1,3 @@
-## **CODE**
-
 // RemoteXY select connection mode and include library
 #define REMOTEXY_MODE__HARDSERIAL
 
